@@ -135,7 +135,7 @@ rag star/
 
 ### Knowledge Base Management
 
-- Click **"🔄 Rebuild Knowledge Base"** in sidebar to regenerate documents
+- Click **" Rebuild Knowledge Base"** in sidebar to regenerate documents
 - Useful after updating the source CSV data
 - Automatically re-ingests into vector database
 
@@ -249,5 +249,3 @@ For issues or questions:
 4. Review data paths in code
 
 ---
-
-**Powered by Groq + ChromaDB + Streamlit**

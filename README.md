@@ -1,10 +1,8 @@
 #  GIC Insurance Analytics RAG 
 
-Production-grade Insurance Analytics RAG Copilot powered by **Groq (Llama 3.3 70B)** and **ChromaDB**.
-
 ##  Overview
 
-This system provides AI-powered analytics over General Insurance Company (GIC) premium data (FY24 & FY25, Apr-Oct). It uses **Retrieval-Augmented Generation (RAG)** to deliver grounded, hallucination-free insights.
+This system provides  analytics over General Insurance Company (GIC) premium data (FY24 & FY25, Apr-Oct). It uses **Retrieval-Augmented Generation (RAG)** to deliver grounded, hallucination free insights.
 
 ### Key Features
 

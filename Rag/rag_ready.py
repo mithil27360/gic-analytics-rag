@@ -1,14 +1,4 @@
-"""
-Production-Grade RAG Copilot - Interview Ready
-Decision-Oriented Insurance Analytics with Business Intelligence Layer
 
-Features:
-- Business Implication Analysis
-- Question-Aware Response Templates  
-- Numerical Correctness Validation
-- Scope Guardrails
-- Analytics-Grade Output Style
-"""
 
 import pandas as pd
 import numpy as np

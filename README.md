@@ -1,4 +1,4 @@
-#  GIC Insurance Analytics RAG Copilot
+#  GIC Insurance Analytics RAG 
 
 Production-grade Insurance Analytics RAG Copilot powered by **Groq (Llama 3.3 70B)** and **ChromaDB**.
 

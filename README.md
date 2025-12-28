@@ -1,5 +1,7 @@
 #  GIC Insurance Analytics RAG 
 
+## data used is public data 
+
 ##  Overview
 
 This system provides  analytics over General Insurance Company (GIC) premium data (FY24 & FY25, Apr-Oct). It uses **Retrieval-Augmented Generation (RAG)** to deliver grounded, hallucination free insights.

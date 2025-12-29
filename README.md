@@ -170,7 +170,6 @@ cd Rag
 python analytics.py
 ```
 
-Shows industry metrics and growth calculations.
 
 ##  Troubleshooting
 
